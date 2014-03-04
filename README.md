@@ -24,7 +24,7 @@ Installation
 
 2. Clone the **node-script-detect** repository.
 
-    `git clone https://github.com/Elzair/node-script-detect.git ~/.vim/bundle/node-script-detection`
+    `git clone https://github.com/Elzair/node-script-detection.git ~/.vim/bundle/node-script-detection`
 
 Notes
 -----
