@@ -32,3 +32,8 @@ Notes
 * You need to restart vim for the new filetype rules to work.
 
 * This script should set the filetype to javascript for any file that begins with `#!/usr/bin/env node`.
+
+Special Thanks
+--------------
+
+Thank you [Tax Management Associates](https://github.com/tma1) for letting me share my cool stuff with the world.
